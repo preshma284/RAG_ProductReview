@@ -4,19 +4,19 @@ This repository contains a data pipeline for processing Amazon product reviews. 
 
 ## Project Structure
 
-amazon-product-review-pipeline/
-?
-??? src/
-?   ??? data_loader.py         # Functions for loading and validating data
-?   ??? database_handler.py    # Functions for connecting to MongoDB and saving data
-?   ??? vectorization.py       # Functions for generating embeddings
-?   ??? pipeline.py            # Main script to run the data pipeline
-?   ??? api.py                 # Flask API for querying processed data
-?
-??? requirements.txt           # Python dependencies
-??? pipeline.log               # Log file for execution details
-??? LICENSE                    # License file
-??? README.md                  # Documentation
+amazon-product-review-pipeline
+
+ src
+ data_loader.py         # Functions for loading and validating data
+ database_handler.py    # Functions for connecting to MongoDB and saving data
+ vectorization.py       # Functions for generating embeddings
+ pipeline.py            # Main script to run the data pipeline
+ api.py                 # Flask API for querying processed data
+
+ requirements.txt           # Python dependencies
+ pipeline.log               # Log file for execution details
+ LICENSE                    # License file
+ README.md                  # Documentation
 
 
 ## Setup
