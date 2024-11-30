@@ -1,0 +1,201 @@
+2024-11-30 15:47:35,185 - INFO - Data loaded successfully from C:\Users\preshma\RAG-ProductReview\Amazon-Product-Review-Dataset\amazon.csv
+2024-11-30 15:47:35,188 - INFO - Data loaded successfully.
+2024-11-30 15:47:35,188 - INFO - Schema validation passed.
+2024-11-30 15:47:35,189 - INFO - Schema validation passed.
+2024-11-30 15:47:35,190 - INFO - Data profiling:
+2024-11-30 15:47:35,191 - INFO - Number of rows: 1465
+2024-11-30 15:47:35,191 - INFO - Number of columns: 16
+2024-11-30 15:47:35,193 - INFO - Column data types:
+product_id             object
+product_name           object
+category               object
+discounted_price       object
+actual_price           object
+discount_percentage    object
+rating                 object
+rating_count           object
+about_product          object
+user_id                object
+user_name              object
+review_id              object
+review_title           object
+review_content         object
+img_link               object
+product_link           object
+dtype: object
+2024-11-30 15:47:35,206 - INFO - Missing values:
+product_id             0
+product_name           0
+category               0
+discounted_price       0
+actual_price           0
+discount_percentage    0
+rating                 0
+rating_count           2
+about_product          0
+user_id                0
+user_name              0
+review_id              0
+review_title           0
+review_content         0
+img_link               0
+product_link           0
+dtype: int64
+2024-11-30 15:47:35,215 - INFO - Missing values in column 'product_id' filled with 'Unknown'.
+2024-11-30 15:47:35,216 - INFO - Missing values in column 'product_name' filled with 'Unknown'.
+2024-11-30 15:47:35,217 - INFO - Missing values in column 'category' filled with 'Unknown'.
+2024-11-30 15:47:35,219 - INFO - Missing values in column 'discounted_price' filled with 'Unknown'.
+2024-11-30 15:47:35,220 - INFO - Missing values in column 'actual_price' filled with 'Unknown'.
+2024-11-30 15:47:35,221 - INFO - Missing values in column 'discount_percentage' filled with 'Unknown'.
+2024-11-30 15:47:35,223 - INFO - Missing values in column 'rating' filled with 'Unknown'.
+2024-11-30 15:47:35,225 - INFO - Missing values in column 'rating_count' filled with 'Unknown'.
+2024-11-30 15:47:35,226 - INFO - Missing values in column 'about_product' filled with 'Unknown'.
+2024-11-30 15:47:35,227 - INFO - Missing values in column 'user_id' filled with 'Unknown'.
+2024-11-30 15:47:35,229 - INFO - Missing values in column 'user_name' filled with 'Unknown'.
+2024-11-30 15:47:35,230 - INFO - Missing values in column 'review_id' filled with 'Unknown'.
+2024-11-30 15:47:35,232 - INFO - Missing values in column 'review_title' filled with 'Unknown'.
+2024-11-30 15:47:35,233 - INFO - Missing values in column 'review_content' filled with 'Unknown'.
+2024-11-30 15:47:35,234 - INFO - Missing values in column 'img_link' filled with 'Unknown'.
+2024-11-30 15:47:35,235 - INFO - Missing values in column 'product_link' filled with 'Unknown'.
+2024-11-30 15:47:35,258 - INFO - Duplicates removed.
+2024-11-30 15:47:36,525 - INFO - Text data normalized.
+2024-11-30 15:47:36,527 - INFO - Data cleaned successfully.
+2024-11-30 15:47:36,700 - INFO - Data saved to MongoDB successfully.
+2024-11-30 15:47:36,828 - INFO - Cleaned data retrieved from MongoDB successfully.
+2024-11-30 15:47:36,835 - INFO - Use pytorch device_name: cpu
+2024-11-30 15:47:36,836 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 15:49:50,233 - INFO - Embeddings saved to MongoDB successfully.
+2024-11-30 15:54:27,301 - INFO - Data loaded successfully from C:\Users\preshma\RAG-ProductReview\Amazon-Product-Review-Dataset\amazon.csv
+2024-11-30 15:54:27,302 - INFO - Data loaded successfully.
+2024-11-30 15:54:27,303 - INFO - Schema validation passed.
+2024-11-30 15:54:27,303 - INFO - Schema validation passed.
+2024-11-30 15:54:27,303 - INFO - Data profiling:
+2024-11-30 15:54:27,304 - INFO - Number of rows: 1465
+2024-11-30 15:54:27,305 - INFO - Number of columns: 16
+2024-11-30 15:54:27,305 - INFO - Column data types:
+product_id             object
+product_name           object
+category               object
+discounted_price       object
+actual_price           object
+discount_percentage    object
+rating                 object
+rating_count           object
+about_product          object
+user_id                object
+user_name              object
+review_id              object
+review_title           object
+review_content         object
+img_link               object
+product_link           object
+dtype: object
+2024-11-30 15:54:27,314 - INFO - Missing values:
+product_id             0
+product_name           0
+category               0
+discounted_price       0
+actual_price           0
+discount_percentage    0
+rating                 0
+rating_count           2
+about_product          0
+user_id                0
+user_name              0
+review_id              0
+review_title           0
+review_content         0
+img_link               0
+product_link           0
+dtype: int64
+2024-11-30 15:54:27,319 - INFO - Missing values in column 'product_id' filled with 'Unknown'.
+2024-11-30 15:54:27,322 - INFO - Missing values in column 'product_name' filled with 'Unknown'.
+2024-11-30 15:54:27,323 - INFO - Missing values in column 'category' filled with 'Unknown'.
+2024-11-30 15:54:27,324 - INFO - Missing values in column 'discounted_price' filled with 'Unknown'.
+2024-11-30 15:54:27,325 - INFO - Missing values in column 'actual_price' filled with 'Unknown'.
+2024-11-30 15:54:27,327 - INFO - Missing values in column 'discount_percentage' filled with 'Unknown'.
+2024-11-30 15:54:27,328 - INFO - Missing values in column 'rating' filled with 'Unknown'.
+2024-11-30 15:54:27,329 - INFO - Missing values in column 'rating_count' filled with 'Unknown'.
+2024-11-30 15:54:27,330 - INFO - Missing values in column 'about_product' filled with 'Unknown'.
+2024-11-30 15:54:27,331 - INFO - Missing values in column 'user_id' filled with 'Unknown'.
+2024-11-30 15:54:27,331 - INFO - Missing values in column 'user_name' filled with 'Unknown'.
+2024-11-30 15:54:27,332 - INFO - Missing values in column 'review_id' filled with 'Unknown'.
+2024-11-30 15:54:27,333 - INFO - Missing values in column 'review_title' filled with 'Unknown'.
+2024-11-30 15:54:27,334 - INFO - Missing values in column 'review_content' filled with 'Unknown'.
+2024-11-30 15:54:27,335 - INFO - Missing values in column 'img_link' filled with 'Unknown'.
+2024-11-30 15:54:27,336 - INFO - Missing values in column 'product_link' filled with 'Unknown'.
+2024-11-30 15:54:27,354 - INFO - Duplicates removed.
+2024-11-30 15:54:28,622 - INFO - Text data normalized.
+2024-11-30 15:54:28,623 - INFO - Data cleaned successfully.
+2024-11-30 15:54:28,760 - INFO - Data saved to MongoDB successfully.
+2024-11-30 15:54:28,791 - INFO - Cleaned data retrieved from MongoDB successfully.
+2024-11-30 15:54:28,798 - INFO - Use pytorch device_name: cpu
+2024-11-30 15:54:28,798 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 15:55:40,062 - INFO - Embeddings saved to MongoDB successfully.
+2024-11-30 16:37:48,247 - INFO - Data loaded successfully from C:\Users\preshma\RAG-ProductReview\Amazon-Product-Review-Dataset\amazon.csv
+2024-11-30 16:37:48,254 - INFO - Data loaded successfully.
+2024-11-30 16:37:48,254 - INFO - Schema validation passed.
+2024-11-30 16:37:48,255 - INFO - Schema validation passed.
+2024-11-30 16:37:48,256 - INFO - Data profiling:
+2024-11-30 16:37:48,257 - INFO - Number of rows: 1465
+2024-11-30 16:37:48,257 - INFO - Number of columns: 16
+2024-11-30 16:37:48,259 - INFO - Column data types:
+product_id             object
+product_name           object
+category               object
+discounted_price       object
+actual_price           object
+discount_percentage    object
+rating                 object
+rating_count           object
+about_product          object
+user_id                object
+user_name              object
+review_id              object
+review_title           object
+review_content         object
+img_link               object
+product_link           object
+dtype: object
+2024-11-30 16:37:48,268 - INFO - Missing values:
+product_id             0
+product_name           0
+category               0
+discounted_price       0
+actual_price           0
+discount_percentage    0
+rating                 0
+rating_count           2
+about_product          0
+user_id                0
+user_name              0
+review_id              0
+review_title           0
+review_content         0
+img_link               0
+product_link           0
+dtype: int64
+2024-11-30 16:37:48,280 - INFO - Missing values in column 'product_id' filled with 'Unknown'.
+2024-11-30 16:37:48,282 - INFO - Missing values in column 'product_name' filled with 'Unknown'.
+2024-11-30 16:37:48,283 - INFO - Missing values in column 'category' filled with 'Unknown'.
+2024-11-30 16:37:48,284 - INFO - Missing values in column 'discounted_price' filled with 'Unknown'.
+2024-11-30 16:37:48,285 - INFO - Missing values in column 'actual_price' filled with 'Unknown'.
+2024-11-30 16:37:48,286 - INFO - Missing values in column 'discount_percentage' filled with 'Unknown'.
+2024-11-30 16:37:48,287 - INFO - Missing values in column 'rating' filled with 'Unknown'.
+2024-11-30 16:37:48,288 - INFO - Missing values in column 'rating_count' filled with 'Unknown'.
+2024-11-30 16:37:48,289 - INFO - Missing values in column 'about_product' filled with 'Unknown'.
+2024-11-30 16:37:48,290 - INFO - Missing values in column 'user_id' filled with 'Unknown'.
+2024-11-30 16:37:48,291 - INFO - Missing values in column 'user_name' filled with 'Unknown'.
+2024-11-30 16:37:48,293 - INFO - Missing values in column 'review_id' filled with 'Unknown'.
+2024-11-30 16:37:48,294 - INFO - Missing values in column 'review_title' filled with 'Unknown'.
+2024-11-30 16:37:48,295 - INFO - Missing values in column 'review_content' filled with 'Unknown'.
+2024-11-30 16:37:48,296 - INFO - Missing values in column 'img_link' filled with 'Unknown'.
+2024-11-30 16:37:48,297 - INFO - Missing values in column 'product_link' filled with 'Unknown'.
+2024-11-30 16:37:48,333 - INFO - Duplicates removed.
+2024-11-30 16:37:49,663 - INFO - Text data normalized.
+2024-11-30 16:37:49,673 - INFO - Data cleaned successfully.
+2024-11-30 16:37:50,063 - INFO - Data saved to MongoDB successfully.
+2024-11-30 16:37:50,125 - INFO - Cleaned data retrieved from MongoDB successfully.
+2024-11-30 16:37:50,133 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:37:50,134 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:39:11,490 - INFO - Embeddings saved to MongoDB successfully.

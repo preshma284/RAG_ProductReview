@@ -1,0 +1,76 @@
+2024-11-30 15:57:03,933 - INFO - Use pytorch device_name: cpu
+2024-11-30 15:57:03,933 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 15:58:33,127 - INFO - Use pytorch device_name: cpu
+2024-11-30 15:58:33,128 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 15:58:38,236 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-30 15:58:38,239 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 15:58:38,249 - INFO -  * Restarting with stat
+2024-11-30 15:58:47,073 - INFO - Use pytorch device_name: cpu
+2024-11-30 15:58:47,074 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 15:58:51,811 - WARNING -  * Debugger is active!
+2024-11-30 15:58:51,823 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 15:59:29,932 - INFO - 127.0.0.1 - - [30/Nov/2024 15:59:29] "[31m[1mPOST /query HTTP/1.1[0m" 400 -
+2024-11-30 16:00:01,219 - INFO - 127.0.0.1 - - [30/Nov/2024 16:00:01] "[31m[1mPOST /query HTTP/1.1[0m" 400 -
+2024-11-30 16:00:59,454 - INFO - 127.0.0.1 - - [30/Nov/2024 16:00:59] "POST /query HTTP/1.1" 200 -
+2024-11-30 16:03:29,740 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:03:29,741 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:03:34,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-30 16:03:34,661 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-30 16:03:34,666 - INFO -  * Restarting with stat
+2024-11-30 16:03:43,701 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:03:43,702 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:03:48,035 - WARNING -  * Debugger is active!
+2024-11-30 16:03:48,047 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:04:26,499 - INFO - 127.0.0.1 - - [30/Nov/2024 16:04:26] "POST /query HTTP/1.1" 200 -
+2024-11-30 16:32:33,542 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\api.py', reloading
+2024-11-30 16:32:35,346 - INFO -  * Restarting with stat
+2024-11-30 16:32:46,575 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:32:46,575 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:32:51,106 - WARNING -  * Debugger is active!
+2024-11-30 16:32:51,120 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:33:01,422 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\data_loader.py', reloading
+2024-11-30 16:33:02,544 - INFO -  * Restarting with stat
+2024-11-30 16:33:11,619 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:33:11,619 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:33:16,592 - WARNING -  * Debugger is active!
+2024-11-30 16:33:16,604 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:34:56,121 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\data_loader.py', reloading
+2024-11-30 16:34:56,958 - INFO -  * Restarting with stat
+2024-11-30 16:35:05,893 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:35:05,894 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:35:11,890 - WARNING -  * Debugger is active!
+2024-11-30 16:35:11,902 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:35:21,834 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\data_loader.py', reloading
+2024-11-30 16:35:22,796 - INFO -  * Restarting with stat
+2024-11-30 16:35:31,672 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:35:31,673 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:35:35,505 - WARNING -  * Debugger is active!
+2024-11-30 16:35:35,517 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:35:41,482 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\data_loader.py', reloading
+2024-11-30 16:35:42,311 - INFO -  * Restarting with stat
+2024-11-30 16:35:51,110 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:35:51,111 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:35:55,310 - WARNING -  * Debugger is active!
+2024-11-30 16:35:55,318 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:35:58,881 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\pipeline.py', reloading
+2024-11-30 16:36:00,015 - INFO -  * Restarting with stat
+2024-11-30 16:36:08,946 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:36:08,947 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:36:12,729 - WARNING -  * Debugger is active!
+2024-11-30 16:36:12,738 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:36:21,655 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\pipeline.py', reloading
+2024-11-30 16:36:22,650 - INFO -  * Restarting with stat
+2024-11-30 16:36:31,481 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:36:31,482 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:36:35,902 - WARNING -  * Debugger is active!
+2024-11-30 16:36:35,911 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:36:50,237 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\vectorization.py', reloading
+2024-11-30 16:36:51,285 - INFO -  * Restarting with stat
+2024-11-30 16:37:00,103 - INFO - Use pytorch device_name: cpu
+2024-11-30 16:37:00,103 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-30 16:37:03,989 - WARNING -  * Debugger is active!
+2024-11-30 16:37:04,002 - INFO -  * Debugger PIN: 647-090-711
+2024-11-30 16:37:26,755 - INFO -  * Detected change in 'C:\\Users\\preshma\\RAG-ProductReview\\src\\pipeline.py', reloading
+2024-11-30 16:37:27,995 - INFO -  * Restarting with stat
