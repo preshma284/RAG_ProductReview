@@ -39,7 +39,7 @@ amazon-product-review-pipeline
 
 ```sh
     python -m venv venv
-    source venv\Scripts\activate
+    venv\Scripts\activate
 ```
 
 3. Install the required packages:
